@@ -1,3 +1,4 @@
 I'm trying to link a github comment to this file's commit:
 
 * first with #4998 on comment https://github.com/octocat/Spoon-Knife/issues/4998
+* second with 4998#issuecomment-76313827 on comment https://github.com/octocat/Spoon-Knife/issues/4998#issuecomment-76313827
