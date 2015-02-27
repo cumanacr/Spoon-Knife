@@ -1,0 +1,3 @@
+I'm trying to link a github comment to this file's commit:
+
+* first with #4998 on comment https://github.com/octocat/Spoon-Knife/issues/4998
